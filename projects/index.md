@@ -2,10 +2,14 @@
 
 # Projects
 
-Start with the **Client/Server Mini‑App** (Internet Tech).
+Start with the **Virtual Reality Simulation (VR)** (first period Internet Tech)
+Start with the **Website design** (second period Internet Tech).
 
-## Client/Server Mini‑App
-Create a simple HTML form that saves a message to a JSON file (or echoes back via a tiny API). Add a short write‑up of HTTP methods and status codes.
+## Virtual Reality Simulation (VR)
+I will be making it about Art like the technology evolution.
+
+## Website design
+Creat a website of the Reptile king aka Athos the black dragon of destruction and his reptile army.
 
 **Alignment:** [Internet Technologies 110917] [Bullets: 7, 9, 10]
 
